@@ -1,0 +1,15 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Practing nodejs and express js with youtube like clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "youtube"
+  ],
+  "author": "Dushyant Singh",
+  "license": "ISC"
+}
